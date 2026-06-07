@@ -1,16 +1,48 @@
-# React + Vite
+# Utkarsh Singh Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio website showcasing my frontend development projects, technical skills, certifications, and professional experience.
 
-Currently, two official plugins are available:
+## 🚀 About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This portfolio highlights:
 
-## React Compiler
+- Frontend Development Projects
+- React & JavaScript Skills
+- AI & Data Annotation Experience
+- Certifications
+- Professional Background
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Built With
 
-## Expanding the ESLint configuration
+- React.js
+- Vite
+- JavaScript
+- CSS
+- GitHub
+- Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Featured Projects
+
+### Spotify Clone
+React-based music player with routing, playback controls, and responsive UI.
+
+### Netflix Clone
+Responsive Netflix-inspired frontend built using HTML, CSS, and JavaScript.
+
+### KYC JSON Annotation Project
+Structured data annotation and validation project demonstrating data quality review and error classification.
+
+## 🔗 Connect With Me
+
+GitHub:
+https://github.com/utkarshsingh5499
+
+LinkedIn:
+https://www.linkedin.com/in/utkarsh-s-67377326b
+
+Email:
+utkarsh.singh.5499@gmail.com
+
+## 🚀 Deployment
+
+Hosted on Vercel.
